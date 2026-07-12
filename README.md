@@ -20,28 +20,30 @@ Gestión de Reservas de Canchas Deportivas. Aplicación móvil nativa desarrolla
     API de prueba: JSONPlaceholder
 
 📁 Estructura del Proyecto
-Plaintext
-            com.example.reservasport/
-            ├── data/
-            │   ├── Cancha.kt
-            │   ├── CanchaRemota.kt
-            │   ├── CanchaApiService.kt
-            │   ├── RetrofitClient.kt
-            │   ├── ReservaEntity.kt
-            │   ├── ReservaDao.kt
-            │   ├── ReservaDatabase.kt
-            │   └── ReservaRepository.kt
-            ├── ui/
-            │   ├── components/
-            │   │   └── CardCancha.kt
-            │   ├── navigation/
-            │   │   └── AppNavigation.kt
-            │   └── screens/
-            │       └── ReservaSportScreen.kt
-            ├── viewmodel/
-            │   ├── ReservaViewModel.kt
-            │   └── AppViewModelFactory.kt
-            └── MainActivity.kt
+
+```text
+com.example.reservasport/
+├── data/
+│   ├── Cancha.kt
+│   ├── CanchaRemota.kt
+│   ├── CanchaApiService.kt
+│   ├── RetrofitClient.kt
+│   ├── ReservaEntity.kt
+│   ├── ReservaDao.kt
+│   ├── ReservaDatabase.kt
+│   └── ReservaRepository.kt
+├── ui/
+│   ├── components/
+│   │   └── CardCancha.kt
+│   ├── navigation/
+│   │   └── AppNavigation.kt
+│   └── screens/
+│       └── ReservaSportScreen.kt
+├── viewmodel/
+│   ├── ReservaViewModel.kt
+│   └── AppViewModelFactory.kt
+└── MainActivity.kt
+```
             
 Resumen de Progreso: Semanas 7 y 8
 ----------------------------------
