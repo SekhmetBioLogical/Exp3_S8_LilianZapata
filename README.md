@@ -69,8 +69,15 @@ Identidad Visual: Configuración de Image Assets para personalizar el ícono de 
 
 Empaquetado y Firma: Generación del APK firmado (Release), asegurando que la aplicación esté lista para su distribución y entrega final.
 
+🚀 Instrucciones para Ejecutar el Proyecto
+1. **Clonar el repositorio**: `git clone https://github.com/SekhmetBioLogical/Exp3_S8_LilianZapata.git`
+2. **Abrir en Android Studio**: Selecciona la carpeta raíz del proyecto.
+3. **Sincronizar Gradle**: Espera a que Android Studio descargue las dependencias (Retrofit, Room, etc.).
+4. **Ejecutar pruebas**: Ve a la pestaña "Build" -> "Run Tests" para validar la lógica y UI.
+5. **Instalar**: Conecta un emulador o dispositivo físico con modo desarrollador activo y presiona "Run".
+
 📸 Capturas de Evidencia
-(Aquí te recomiendo insertar la captura de pantalla de tus pruebas en verde y la captura del emulador con tu nuevo ícono personalizado).
+Se sube en el informe
 
 📦 Entrega del APK
 Puedes descargar la versión final de la aplicación para pruebas aquí:
